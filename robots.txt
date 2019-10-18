@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aichaibeiy.nicbuckeridge.com/sitemap.xml
